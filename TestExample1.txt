@@ -1,0 +1,2 @@
+This is a simple text file.Adding additional lines.
+Adding different lines here.
